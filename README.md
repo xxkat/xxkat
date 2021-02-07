@@ -14,8 +14,8 @@ Most things I do are in private repositories, there's not much to see here!
 ---
 ### Languages
 
-<img align="left" alt="CSHARP" width="36px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/csharp.png" />
-<img align="left" alt="CPP" width="36px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/cpp.png" />
-<img align="left" alt="CPP" width="36px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/c.png" />
+<img align="left" alt="CSHARP" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/csharp.png" />
+<img align="left" alt="CPP" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/cpp.png" />
+<img align="left" alt="C" width="46px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/c.png" />
 
 <br />
