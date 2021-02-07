@@ -9,8 +9,6 @@ Most things I do are in private repositories, there's not much to see here!
 [![top](https://github-readme-stats.vercel.app/api/top-langs/?username=xxkat)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-<br />
-<br />
 
 ---
 
@@ -19,7 +17,3 @@ Most things I do are in private repositories, there's not much to see here!
 <img align="left" alt="CPP" width="30px" src="https://github.com/abranhe/programming-languages-logos-site/blob/master/languages/c.png" />
 
 <br />
-<br />
-<br />
-
----
